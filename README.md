@@ -9,6 +9,8 @@ Mahasiswa : Radhia Aulia Nisa (23343049)<br><br>
 
 ## Prim's-Algorithm
 
+<img src="https://upload.wikimedia.org/wikipedia/en/9/96/Prim-animation.gif">
+
 <p align="justify">
 <b>Prim's Algorithm</b> adalah salah satu algoritma untuk mencari Minimum Spanning Tree (MST) dari sebuah graf berbobot dan tidak berarah. Minimum Spanning Tree adalah pohon merentang yang memiliki bobot total minimum dari semua sisi dalam graf. Algoritma ini ditemukan oleh matematikawan Czech, Vojtěch Jarník, dan kemudian dikembangkan lebih lanjut oleh Robert C. Prim dan Edsger W. Dijkstra.<br><br>
   Algoritma Prim bekerja dengan pendekatan greedy, yang berarti pada setiap langkahnya, algoritma memilih sisi dengan bobot terkecil yang menghubungkan simpul yang sudah tergabung dalam MST dengan simpul yang belum tergabung. Proses ini diulang hingga semua simpul dalam graf sudah dimasukkan ke dalam MST.
@@ -24,6 +26,5 @@ Langkah-langkah algoritma Prim adalah sebagai berikut: </p>
  <li>Ulangi langkah 3 dan 4 sampai semua simpul telah dimasukkan ke dalam MST.</li>
 </ol>
 
-<img src="[https://upload.wikimedia.org/wikipedia/en/9/96/Prim-animation.gif]">
 
 
