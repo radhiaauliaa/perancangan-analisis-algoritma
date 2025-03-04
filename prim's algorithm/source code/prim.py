@@ -1,3 +1,7 @@
+# Nama : Radhia Aulia Nisa
+# NIM  : 23343049
+# Prodi: Informatika
+
 import heapq
 
 class Graf:
