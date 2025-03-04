@@ -42,7 +42,7 @@ class Graf:
 if __name__ == '__main__':
     g = Graf(9)  # Graf dengan 9 simpul (a-i)
     
-    # Matriks ketetanggaan sesuai gambar
+    # Matriks ketetanggaan
     g.graf = [[0, 4, 0, 0, 0, 0, 0, 8, 0],  # a
               [4, 0, 8, 0, 0, 0, 0, 11, 0], # b
               [0, 8, 0, 7, 0, 4, 0, 0, 2],  # c
